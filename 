@@ -1,0 +1,17 @@
+[33mcommit ab9e4ef59e66244d3eea30c3e1ea690cbb4e77ab[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Иван Пешков <staya-promo@yandex.ru>
+Date:   Tue May 17 23:57:49 2022 +0400
+
+    Создал приложение posts
+
+[33mcommit ebf11b860009e397a42aacc7675b87aa7c2e2692[m
+Author: Иван Пешков <staya-promo@yandex.ru>
+Date:   Tue May 17 23:41:46 2022 +0400
+
+    Создание структуры проекта
+
+[33mcommit 1004b0fa55056c85c40b95b1eaa271cf59d59733[m
+Author: Ivan Peshkov <104223577+peshkov-i-a@users.noreply.github.com>
+Date:   Tue May 17 16:46:27 2022 +0400
+
+    Initial commit
